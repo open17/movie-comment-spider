@@ -1,5 +1,7 @@
 # 电影评论自动化爬虫
 
+> 代码分离自[B站可视化项目](https://github.com/BiliVista)
+
 ## 安装环境
 
 ```shell
