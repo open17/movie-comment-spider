@@ -1,0 +1,12 @@
+{
+    "cookies": "",
+    "tmp_path": "./tmp",
+    "output_file": "MovieComments.xlsx",
+    "douban": [
+        35725869,
+        3793023
+    ],
+    "maoyan": [
+        1458876
+    ]
+}
